@@ -9,9 +9,11 @@ public class Drop {
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://en-gb.facebook.com/");
 		driver.manage().window().maximize();
-         System.out.println("email address");		
-         System.out.println("password");
-	
+        System.out.println("email address");		
+        System.out.println("password");
+        System.out.println("signup");
+		System.out.println("login");
+
 	
 	
 	
