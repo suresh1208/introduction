@@ -8,7 +8,9 @@ public class Drop {
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\sidhu\\eclipse-workspace\\Selenium9\\drivers\\chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://en-gb.facebook.com/");
-		
+		System.out.println("signup");
+		System.out.println("login");
+
 	
 	
 	
